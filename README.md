@@ -1,1 +1,1 @@
-I simple search engine mockup.
+I simple search engine mockup. (A very short description)
